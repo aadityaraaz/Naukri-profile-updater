@@ -49,7 +49,7 @@ pip install selenium
 ## Usage
 
 ```bash
-python naukri_headline_toggler.py --email your_email@example.com --password your_password [--binary /path/to/chrome]
+python naukriProfileUpdate.py --email "your_email@example.com" --password "your_password" 
 ```
 
 ### Options
